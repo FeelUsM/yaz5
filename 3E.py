@@ -1,0 +1,7 @@
+input()
+a = set(map(int,input().split()))
+input()
+b = set(map(int,input().split()))
+input()
+c = set(map(int,input().split()))
+print(' '.join(str(x) for x in a&b|a&c|b&c))
