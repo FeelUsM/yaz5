@@ -1,4 +1,4 @@
-# мои и не только решения задач с ("Тренировок по алгоритмам 5.0" от Яндекса)[https://yandex.ru/yaintern/algorithm-training?utm_campaign=training5&utm_content=digest&utm_medium=email&utm_source=mindbox#trainings-group]
+# мои и не только решения задач с ["Тренировок по алгоритмам 5.0" от Яндекса](https://yandex.ru/yaintern/algorithm-training?utm_campaign=training5&utm_content=digest&utm_medium=email&utm_source=mindbox#trainings-group)
 
 финишная гонка:
 ```
